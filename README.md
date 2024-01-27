@@ -6,4 +6,4 @@ Changes from Ho Chi Cheng(h_cheng188167)
 
 Here is some more changes for Fetching Exercise #5!
 Here is some more changes for Pulling Exercise #5!
-I am not committing conflicts
+conflicts resolved
